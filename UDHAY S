@@ -221,12 +221,12 @@
         <h3 class="section-title">Contact</h3>
         <div class="card">
           <form onsubmit="handleContact(event)">
-            <input name="name" placeholder="Your name" required />
-            <input name="email" placeholder="Email" type="email" required />
+            <input name="name" placeholder="udhay s" required />
+            <input name="email" placeholder="udhay6385s@gmail.com" type="email" required />
             <input name="subject" placeholder="Subject" />
             <textarea name="message" placeholder="Message" required></textarea>
             <div style="display:flex;justify-content:space-between;align-items:center;margin-top:8px">
-              <small class="muted">Or email me at <strong>youremail@example.com</strong></small>
+              <small class="muted">Or email me at <strong>udhay6385s@gmail.com</strong></small>
               <button class="btn" type="submit">Send</button>
             </div>
           </form>
